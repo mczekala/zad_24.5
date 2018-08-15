@@ -1,0 +1,14 @@
+{
+  "name": "zad_24.5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha calculateStylePoints.test.js calculateDistancePoints.test.js calculateTotalPoints.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
